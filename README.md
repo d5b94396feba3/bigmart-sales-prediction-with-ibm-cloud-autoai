@@ -228,25 +228,26 @@ click on deployment space in projects</li>
 </ul>
 <img src="images/ibm_watson_29.png">
 <ul>
-<li>Once you get the status as ready it means that your deployment is done successfully.
+<li>Now you can see project deployment dashboard, click on Deployments tab.
+</li>
+<li>Once you get the status as Deployed it means that your deployment is done successfully.
 </li>
 </ul>
 <li>Now you click on the deployment name.
 </li>
 </ul>
-<img src="images/ibm_watson_30.png">
+<img src="images/ibm_watson_31.png">
 <ul>
-<li>After Clicking the Model Name, you will get Options like API reference, Code snippets, and Test.
+<li>After Clicking on deployed project name, you will get Options like API reference, Code snippets, and Test. You can explore all of them.
 </li>
-<li>First we will test our model so click on test.
+<li>We will test our deployed model so click on Test.
 </li>
 </ul>
 <img src="images/ibm_watson_31.png">
 <ul>
-<li>In this window we need to give the input parameters to predict the output.
-
+<li>In this Test tab, we need to give the input parameters to predict the output from our deployed model.
 </li>
-<li>After providing the input parameters Click on the predict button to check the output
+<li>After providing the input parameters click on the predict button to check the output of our machine learning model created and deployed using autoai.
 </li>
 </ul>
-<img src="images/ibm_watson_32.png">
+<img src="images/ibm_watson_33.png">
