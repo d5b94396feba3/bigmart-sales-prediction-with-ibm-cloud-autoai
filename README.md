@@ -14,6 +14,7 @@
 </ul>
 <h4>Activities:</h4>
 
+
 <ul>
   <li>Create the Watson Studio.</li>
   <li>Adding the cloud object storage.</li>
@@ -51,11 +52,6 @@ instance. There you click on create button.</li>
 
 <img src="images/ibm_watson_5.png">
 
-<ul>
-	<li>Click on Create an Empty Project</li>
-</ul>
-
-<img src="images/ibm_watson_6.png">
 
 ## Step 2: Adding the Object Storage to project
 
@@ -64,7 +60,7 @@ instance. There you click on create button.</li>
 service, on the right side under the object storage option you have an ADD option click on that.</li>
 </ul>
 
-<img src="images/ibm_watson_7.png">
+<img src="images/ibm_watson_cloud_1.png">
 
 <ul>
 	<li>It will redirect to the new tab where we need to add the Cloud Object storage service. If you have
@@ -72,7 +68,7 @@ already created a cloud object storage service, you can select the existing inst
 create the new service instance.</li>
 </ul>
 
-<img src="images/ibm_watson_8.png">
+<img src="images/ibm_watson_cloud_2.png">
 
 
 <ul>
@@ -84,7 +80,7 @@ service name, simply click on the refresh button there.</li>
 
 </ul>
 
-<img src="images/ibm_watson_9.png">
+<img src="images/ibm_watson_6.png">
 
 ## Step-3: Creating an Auto AI Experiment
 
@@ -95,14 +91,14 @@ service name, simply click on the refresh button there.</li>
 
 </ul>
 
-<img src="images/ibm_watson_10.png">
+<img src="images/ibm_watson_7.png">
 
 
 <ul>
 	<li>Here you need to Select AUTO AI experiment as the asset type</li>
 </ul>
 
-<img src="images/ibm_watson_11.png">
+<img src="images/ibm_watson_8.png">
 
 
 <ul>
@@ -113,7 +109,7 @@ service instance.</li>
 
 </ul>
 
-<img src="images/ibm_watson_12.png">
+<img src="images/ibm_watson_9.png">
 
 
 <ul>
