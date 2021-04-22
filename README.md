@@ -270,12 +270,10 @@ click on deployment space in projects</li>
 <a href="https://www.ibm.com/cloud/watson-studio/autoai?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">Watson Studio AutoAI</a>
 </li>
 <li>
-<a href="https://www.ibm.com/cloud/garage/dte/tutorial/ibm-watson-studio-autoai-modeling-rest-us?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank"> Step by step tutorial</a>	
+<a href="https://www.ibm.com/cloud/garage/dte/tutorial/ibm-watson-studio-autoai-modeling-rest-us?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank"> Step by step tutorials</a>	
 </li>	
-<li><a href="https://www.youtube.com/watch?v=knxbJgPmD5E" target="_blank">Video tutorial </a>
+<li><a href="https://www.youtube.com/watch?v=knxbJgPmD5E" target="_blank">Video tutorials </a>
 </li>
-<li><a href="https://www.youtube.com/watch?v=knxbJgPmD5E" target="_blank">Video tutorial </a>
-</li>
-<li><a href="https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">Documentation</a>
+<li><a href="https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">Documentations</a>
 </li>
 </ul>
