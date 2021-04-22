@@ -192,7 +192,7 @@ the model by clicking the save as option. You can also save as Notebook and expl
 <img src="images/ibm_watson_22.png">
 
 <ul>
-<li>Wait till model is successfully saved. You will get the notification once it is saved. Now you click on view in projects</li>
+<li>Wait till model is successfully saved. You will get the notification once it is saved. Now you click on View in projects</li>
 </ul>
 <img src="images/ibm_watson_23.png">
 
@@ -201,11 +201,6 @@ the model by clicking the save as option. You can also save as Notebook and expl
 </ul>
 <img src="images/ibm_watson_24.png">
 
-<ul>
-<li>It will redirect to the new tab where we need to add a deployment space. If you have already created a
-deployment space , you can select the existing instance. Or you need to create the new service instance.</li>
-</ul>
-<img src="images/ibm_watson_25.png">
 <ul>
 <li>It will redirect to the new tab where we need to add a deployment space. If you have already created a
 deployment space , you can select the existing instance. Or you need to create the new service instance.</li>
