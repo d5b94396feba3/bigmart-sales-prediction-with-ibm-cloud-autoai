@@ -268,8 +268,6 @@ click on deployment space in projects</li>
 
 ## ADDITIONAL INFORMATION
 
-<hr>
-
 <ul>
 <li>
 <a href="https://www.ibm.com/cloud/watson-studio/autoai?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">Watson Studio AutoAI</a>
