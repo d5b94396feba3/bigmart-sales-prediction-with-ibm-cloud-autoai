@@ -260,10 +260,15 @@ click on deployment space in projects</li>
 <img src="images/ibm_watson_33.png">
 
 
+<br>
 
-<hr>
+<br>
+
+
 
 ### ADDITIONAL INFORMATION
+
+<hr>
 
 <ul>
 <li>
