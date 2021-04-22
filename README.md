@@ -156,7 +156,7 @@ learning instance appeared you have created in above step.</li>
 
 <img src="images/ibm_watson_18.png">
 
-
+## Step 4: Training and Deploying the Auto AI Experiment.
 <ul>
 	<li>After successfully creating a AutoAI Experiment, we need to upload the Data Set.</li>
 
@@ -167,7 +167,7 @@ learning instance appeared you have created in above step.</li>
 <img src="images/ibm_watson_19.png">
 
 <ul>
-<li>After selecting the file,Select the prediction column from the data set and click on Run Experiment.</li>
+<li>After selecting the file,Select the prediction column from the data set. You can also explore Experiment Settings, for now I will keep default settings and click on Run Experiment</li>
 </ul>
 
 <img src="images/ibm_watson_20.png">
@@ -182,17 +182,9 @@ algorithm for Our Data set.</li>
 </ul>
 
 <img src="images/ibm_watson_222.png">
-
-
 <ul>
-	<li>Now we can see performance ranks of different algorithms on this dataset.
-	</li>
-</ul>
-
-<img src="images/ibm_watson_21.png">
-
-<ul>
-
+<li>Now we can see ranking of different algorithms on this dataset.
+</li
 <li>We will select the Best algorithm and save
 the model by clicking the save as option. You can also save as Notebook and explore source code of your created model.</li>
 <li>For now we will save it as model.</li>
