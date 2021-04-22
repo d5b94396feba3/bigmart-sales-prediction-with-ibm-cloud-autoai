@@ -14,13 +14,6 @@
 </ul>
 <h4>Activities:</h4>
 
-Activities:
- Create the Watson Studio.
- Adding the cloud object storage.
- Create Auto AI experiment.
- Training and Deploying the Auto AI Experiment.
- Predicting the output by providing an input to machine learning model. 
-
 <ul>
   <li>Create the Watson Studio.</li>
   <li>Adding the cloud object storage.</li>
