@@ -232,7 +232,6 @@ click on deployment space in projects</li>
 </li>
 <li>Once you get the status as Deployed it means that your deployment is done successfully.
 </li>
-</ul>
 <li>Now you click on the deployment name.
 </li>
 </ul>
