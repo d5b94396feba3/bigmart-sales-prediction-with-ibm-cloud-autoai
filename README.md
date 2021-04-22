@@ -66,9 +66,6 @@ instance. There you click on create button.</li>
 
 ## Step 2: Adding the Object Storage to project
 
-While creating the project you need to provide name and you need to select the object storage
-service, on the right side under the object storage option you have an ADD option click on that.
-
 <ul>
 	<li>While creating the project you need to provide name and you need to select the object storage
 service, on the right side under the object storage option you have an ADD option click on that.</li>
