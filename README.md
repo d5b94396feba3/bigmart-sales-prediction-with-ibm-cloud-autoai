@@ -21,8 +21,11 @@
   <li>Training and Deploying the Auto AI Experiment.</li>
   <li>Predicting the output by providing an input to machine learning model.</li>
 </ul>
+<hr>
 
 ## Step-1: Create the Watson Studio Instance
+<hr>
+
 <ul>
 	<li>After logging into the Cloud IBM Account, navigate to Catalog</li>
 	<li>Click on the Watson Studio</li>
@@ -54,6 +57,7 @@ instance. There you click on create button.</li>
 
 
 ## Step 2: Adding the Object Storage to project
+<hr>
 
 <ul>
 	<li>While creating the project you need to provide name and you need to select the object storage
@@ -83,6 +87,7 @@ service name, simply click on the refresh button there.</li>
 <img src="images/ibm_watson_6.png">
 
 ## Step-3: Creating an Auto AI Experiment
+<hr>
 
 <ul>
 	<li>After creating the project, you will get the below page.</li>
@@ -157,6 +162,8 @@ learning instance appeared you have created in above step.</li>
 <img src="images/ibm_watson_18.png">
 
 ## Step 4: Training and Deploying the Auto AI Experiment.
+<hr>
+
 <ul>
 	<li>After successfully creating a AutoAI Experiment, we need to upload the Data Set.</li>
 
@@ -253,9 +260,8 @@ click on deployment space in projects</li>
 
 
 
-
-### ADDITIONAL INFORMATION
 <hr>
+### ADDITIONAL INFORMATION
 <ul>
 <li>
 <a href="https://www.ibm.com/cloud/watson-studio/autoai?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">Watson Studio AutoAI</a>
