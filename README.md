@@ -86,6 +86,7 @@ service name, simply click on the refresh button there.</li>
 <img src="images/ibm_watson_6.png">
 
 <hr>
+
 ## Step-3: Creating an Auto AI Experiment
 
 <ul>
@@ -161,6 +162,7 @@ learning instance appeared you have created in above step.</li>
 <img src="images/ibm_watson_18.png">
 
 <hr>
+
 ## Step 4: Training and Deploying the Auto AI Experiment.
 
 <ul>
@@ -260,7 +262,9 @@ click on deployment space in projects</li>
 
 
 <hr>
+
 ### ADDITIONAL INFORMATION
+
 <ul>
 <li>
 <a href="https://www.ibm.com/cloud/watson-studio/autoai?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">Watson Studio AutoAI</a>
