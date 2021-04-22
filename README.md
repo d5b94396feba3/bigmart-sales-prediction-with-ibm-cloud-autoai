@@ -83,7 +83,7 @@ create the new service instance.</li>
 
 
 <ul>
-	<li> After Successful creation of object Storage Service, it will redirect to pervious page there you need to
+	<li>After Successful creation of object Storage Service, it will redirect to pervious page there you need to
 select the object storage service which you have created in your previous step. If you did not get your
 service name, simply click on the refresh button there.</li>
 
