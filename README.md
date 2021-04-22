@@ -250,3 +250,26 @@ click on deployment space in projects</li>
 </li>
 </ul>
 <img src="images/ibm_watson_33.png">
+
+
+
+* Link to the product info: https://www.ibm.com/cloud/watson-studio/autoai?cm_sp=freelancer-_-AutoAI-_-cta
+* Step by step tutorial: https://www.ibm.com/cloud/garage/dte/tutorial/ibm-watson-studio-autoai-modeling-rest-us?cm_sp=freelancer-_-AutoAI-_-cta
+* 3 Part Video tutorial: https://www.youtube.com/watch?v=knxbJgPmD5E
+* Documentation: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?cm_sp=freelancer-_-AutoAI-_-cta
+
+
+### ADDITIONAL INFORMATION
+<hr>
+<ul>
+<li>
+<a href="https://www.ibm.com/cloud/watson-studio/autoai?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank"> Link to Watson Studio AutoAI</a>
+<a href="https://www.ibm.com/cloud/garage/dte/tutorial/ibm-watson-studio-autoai-modeling-rest-us?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank"> Step by step tutorial</a>
+<a href="https://www.youtube.com/watch?v=knxbJgPmD5E" target="_blank">Video tutorial </a>
+<a href=" https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">Documentation</a>
+
+</li>
+<li>
+	
+</li>
+</ul>
