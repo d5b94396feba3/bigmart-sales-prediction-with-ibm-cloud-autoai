@@ -27,8 +27,9 @@
 ## Step-0: Explore Data Set and Notebook
 
 For this tutorial, we will use <code>BigMart Sales</code> data set from Kaggle. You can find dataset <strong><a href="https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data">here</a></strong>.<br>
-Data set <code>Exploration Analysis (EDA)</code> and <code>Notebook</code> of this tutorial you can find <strong><a href="https://github.com/d5b94396feba3/bigmart-sales-prediction-with-ibm-cloud-autoai/tree/main/notebook">here</a></strong>.
+Data set <code>Exploration Analysis (EDA)</code> and <code>Notebook</code> of this tutorial you can find <strong><a href="https://github.com/d5b94396feba3/bigmart-sales-prediction-with-ibm-cloud-autoai/tree/main/notebook">here</a></strong>.<br>
 
+<br>
 
 ## Step-1: Create the Watson Studio Instance
 <ul>
