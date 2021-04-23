@@ -27,10 +27,7 @@ IBM’s AutoAI
 <ul>
 <li>Sign-up/Login to IBM Cloud: https://cloud.ibm.com/registration</li>
 <li>After logging into the Cloud IBM Account, navigate to Catalog.</li>
-<li>Click on the  
-	
-	` Watson Studio 
-	` 
+<li>Click on the  ` Watson Studio ` 
 </li>
 </ul>
 <img src="images/ibm_watson_1.png">
