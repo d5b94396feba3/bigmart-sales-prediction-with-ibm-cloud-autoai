@@ -32,12 +32,12 @@ IBM’s AutoAI
 <img src="images/ibm_watson_1.png">
 <ul>
 	<li>You will be redirected to Watson studio page where you can create your Watson studio service
-instance. There you click on create button.</li>
+instance. There you click on <code>create</code> button.</li>
 </ul>
 <img src="images/ibm_watson_2.png">
 
 <ul>
-	<li>Now you will be redirected to the below page there click on Get Started</li>
+	<li>Now you will be redirected to the below page there click on <code>Get Started</code></li>
 </ul>
 
 <img src="images/ibm_watson_3.png">
@@ -49,7 +49,7 @@ instance. There you click on create button.</li>
 <img src="images/ibm_watson_4.png">
 
 <ul>
-	<li>Click on Create an Empty Project</li>
+	<li>Click on <code>Create an Empty Project</code></li>
 </ul>
 
 <img src="images/ibm_watson_5.png">
@@ -60,15 +60,15 @@ instance. There you click on create button.</li>
 
 <ul>
 	<li>While creating the project you need to provide name and you need to select the object storage
-service, on the right side under the object storage option you have an ADD option click on that.</li>
+service, on the right side under the object storage option you have an <code>ADD</code> option click on that.</li>
 </ul>
 
 <img src="images/ibm_watson_cloud_1.png">
 
 <ul>
-	<li>It will redirect to the new tab where we need to add the Cloud Object storage service. If you have
+	<li>It will redirect to the new tab where we need to add the <code>Cloud Object storage</code> service. If you have
 already created a cloud object storage service, you can select the existing instance. Or you need to
-create the new service instance.</li>
+		<code>create</code> the new service instance.</li>
 </ul>
 
 <img src="images/ibm_watson_cloud_2.png">
@@ -92,7 +92,7 @@ service name, simply click on the refresh button there.</li>
 <ul>
 	<li>After creating the project, you will get the below page.</li>
 
-<li>On the top of screen you will have “add to project” option, Click on Add to project.</li>
+<li>On the top of screen you will have “add to project” option, Click on <code>Add to project</code>.</li>
 
 </ul>
 
@@ -100,7 +100,7 @@ service name, simply click on the refresh button there.</li>
 
 
 <ul>
-	<li>Here you need to Select AUTO AI experiment as the asset type</li>
+	<li>Here you need to Select <code>AUTO AI experiment</code> as the asset type</li>
 </ul>
 
 <img src="images/ibm_watson_8.png">
@@ -118,7 +118,7 @@ service instance.</li>
 
 
 <ul>
-	<li>Click on the Settings</li>
+	<li>Click on the <code>Settings</code></li>
 
 </ul>
 
@@ -127,7 +127,7 @@ service instance.</li>
 <ul>
 	<li>Scroll down to associated services</li>
 
-<li>Click on the Watson from “Add service” drop down
+<li>Click on the <code>Watson</code> from “Add service” drop down
 </li>
 
 </ul>
@@ -136,7 +136,7 @@ service instance.</li>
 
 
 <ul>
-	<li>Now you click on Machine Learning and then click on create</li>
+	<li>Now you click on <code>Machine Learning</code> and then click on <code>create</code></li>
 
 </ul>
 
@@ -144,7 +144,7 @@ service instance.</li>
 
 <ul>
 	<li>Once the Machine Learning Instance is created successfully it will redirect to previous page there you
-reload page and select your machine learning instance which you have created and click on associate.</li>
+reload page and select your machine learning instance which you have created and click on <code>associate service</code>.</li>
 
 </ul>
 
@@ -154,7 +154,7 @@ reload page and select your machine learning instance which you have created and
 	<li>Now go to previously opened “New AutoAI experiment “ tab and reload page you will see machine
 learning instance appeared you have created in above step.</li>
 
-<li>Click on Create
+<li>Click on <code>Create</code>
 </li>
 
 </ul>
@@ -168,14 +168,14 @@ learning instance appeared you have created in above step.</li>
 <ul>
 	<li>After successfully creating a AutoAI Experiment, we need to upload the Data Set.</li>
 
-<li>Just click on Browse option and select your dataset.</li>
+<li>Just click on <code>Browse</code> option and select your dataset. You can also <code>select from project</code> if you already uploaded dataset to project</li>
 
 </ul>
 
 <img src="images/ibm_watson_19.png">
 
 <ul>
-<li>After selecting the file,Select the prediction column from the data set. You can also explore Experiment Settings, for now I will keep default settings and click on Run Experiment</li>
+<li>After selecting the file,Select the prediction column from the data set. You can also explore <code>Experiment Settings</code>, for now I will keep default settings and click on <code>Run Experiment</code></li>
 </ul>
 
 <img src="images/ibm_watson_20.png">
@@ -194,18 +194,18 @@ algorithm for Our Data set.</li>
 <li>Now we can see ranking of different algorithms on this dataset.
 </li
 <li>We will select the Best algorithm and save
-the model by clicking the save as option. You can also save as Notebook and explore source code of your created model.</li>
+	the model by clicking the <code>save as</code> option. You can also save as Notebook and explore source code of your created model.</li>
 <li>For now we will save it as model.</li>
 </ul>
 <img src="images/ibm_watson_22.png">
 
 <ul>
-<li>Wait till model is successfully saved. You will get the notification once it is saved. Now you click on View in projects</li>
+<li>Wait till model is successfully saved. You will get the notification once it is saved. Now you click on <code>View in projects</code></li>
 </ul>
 <img src="images/ibm_watson_23.png">
 
 <ul>
-<li>Now we will deploy our model. Select the promote to deployment space option.</li>
+	<li>Now we will deploy our model. Select the <code>promote to deployment space</code> option.</li>
 </ul>
 <img src="images/ibm_watson_24.png">
 
@@ -217,21 +217,21 @@ deployment space , you can select the existing instance. Or you need to create t
 
 <ul>
 <li>Now fill up deployment space name, storage service and machine learning service</li>
-<li>Click on create</li>
+	<li>Click on <code>create</code></li>
 </ul>
 <img src="images/ibm_watson_26.png">
 <ul>
 <li>Wait till model is successfully promoted. You will get the notification once it is promoted. Now you
-click on deployment space in projects</li>
+	click on <code>deployment space</code> in projects</li>
 </ul>
 <img src="images/ibm_watson_27.png">
 <ul>
-<li>Click on deployment icon of our model
+	<li>Click on <code>deployment icon</code> of our model
 </li>
 </ul>
 <img src="images/ibm_watson_28.png">
 <ul>
-<li>Now select Online and click on Create
+	<li>Now select <code>Online</code> and click on <code>Create</code>
 </li>
 </ul>
 <img src="images/ibm_watson_29.png">
@@ -247,7 +247,7 @@ click on deployment space in projects</li>
 <ul>
 <li>After Clicking on deployed project name, you will get Options like API reference, Code snippets, and Test. You can explore all of them.
 </li>
-<li>We will test our deployed model so click on Test.
+	<li>We will test our deployed model so click on <code>Test</code>.
 </li>
 </ul>
 <img src="images/ibm_watson_31.png">
@@ -266,7 +266,7 @@ click on deployment space in projects</li>
 
 
 
-## ADDITIONAL INFORMATION
+## Useful Resources
 
 <ul>
 <li>
