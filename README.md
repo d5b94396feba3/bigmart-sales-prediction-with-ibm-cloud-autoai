@@ -43,7 +43,7 @@ instance. There you click on <code>create</code> button.</li>
 <img src="images/ibm_watson_3.png">
 
 <ul>
-	<li> It will redirect to new page where you can create project, click on it.</li>
+	<li> It will redirect to new page where you can create project, click on <code> Create a project </code>.</li>
 </ul>
 
 <img src="images/ibm_watson_4.png">
