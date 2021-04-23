@@ -264,17 +264,17 @@ deployment space , you can select the existing instance. Or you need to create t
 
 
 
-## Useful Resources
+### Useful Resources
 
 <ul>
 <li>
-<a href="https://www.ibm.com/cloud/watson-studio/autoai?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">Watson Studio AutoAI</a>
+Watson Studio AutoAI : <a href="https://www.ibm.com/cloud/watson-studio/autoai?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">https://www.ibm.com/cloud/watson-studio/autoai</a>
 </li>
 <li>
-<a href="https://www.ibm.com/cloud/garage/dte/tutorial/ibm-watson-studio-autoai-modeling-rest-us?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank"> Step by step tutorials</a>	
+Step by step tutorials : <a href="https://www.ibm.com/cloud/garage/dte/tutorial/ibm-watson-studio-autoai-modeling-rest-us?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank"> https://www.ibm.com/cloud/garage/dte/tutorial/ibm-watson-studio-autoai-modeling-rest-us</a>	
 </li>	
-<li><a href="https://www.youtube.com/watch?v=knxbJgPmD5E" target="_blank">Video tutorials </a>
+<li>Video tutorials : <a href="https://www.youtube.com/watch?v=knxbJgPmD5E" target="_blank">https://www.youtube.com/watch?v=knxbJgPmD5E</a>
 </li>
-<li><a href="https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">Documentations</a>
+<li>Documentations : <a href="https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html?cm_sp=freelancer-_-AutoAI-_-cta" target="_blank">https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html</a>
 </li>
 </ul>
