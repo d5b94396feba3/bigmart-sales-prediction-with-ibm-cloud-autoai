@@ -2,13 +2,13 @@
 
 ## This tutorial demonstrate how to create and deploy machine learning model with Watson Studio AutoAI. Read medium blog post of this tutorial [BLOG HERE!](https://medium.com/@sha-rah646/how-to-create-and-deploy-machine-learning-model-with-watson-studio-autoai-ca1c772124c6)
 
-<h4>Outcome:</h4>
-<p>In this tutorial, you will explore the following services. </p> 
+<h4>Overview:</h4>
+<p>In this tutorial, you will explore the following topics. </p> 
 <ul>
-  <li>Watson Studio service</li>
-  <li>Cloud object Storage </li>
-  <li>Machine learning instance </li>
-  <li>IBM cloud notebook </li>
+  <li>Watson Studio Service</li>
+  <li>Cloud Object Storage </li>
+  <li>Machine Learning Instance </li>
+  <li>IBM Cloud Notebook </li>
   <li>Training the machine learning model with data set in Auto AI experiment</li>
 
 </ul>
