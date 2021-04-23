@@ -1,6 +1,6 @@
 # bigmart-sales-prediction-with-ibm-cloud-autoai
 
-## This tutorial demonstrate how to create and deploy machine learning model with Watson Studio AutoAI. Read medium blog post of this tutorial [BLOG HERE!](https://medium.com/@sha-rah646/how-to-create-and-deploy-machine-learning-model-with-watson-studio-autoai-ca1c772124c6)
+## This tutorial demonstrate how to create and deploy machine learning model with IBM’s AutoAI. Read medium blog post of this tutorial [BLOG HERE!](https://medium.com/@sha-rah646/how-to-create-and-deploy-machine-learning-model-with-watson-studio-autoai-ca1c772124c6)
 
 <h4>Overview:</h4>
 <p>In this tutorial, you will explore the following topics. </p> 
