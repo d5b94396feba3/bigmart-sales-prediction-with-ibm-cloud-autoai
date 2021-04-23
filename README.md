@@ -18,10 +18,23 @@
 <ul>
   <li>Create the Watson Studio.</li>
   <li>Adding the cloud object storage.</li>
+  <li>Create Machine Learning Instance</li>
   <li>Training and Deploying the Auto AI Experiment.</li>
   <li>Predicting the output by providing an input to machine learning model.</li>
 </ul>
 <hr>
+
+## Step-0: Explore Data Set and Notebook
+
+For this tutorial, we will use <code>BigMart Sales</code> data set from Kaggle. You can find dataset <a href="https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data">here</a>.<br>
+<strong>Data set Exploration Analysis (EDA) and Notebook of this tutorial you can find <a href="https://github.com/d5b94396feba3/bigmart-sales-prediction-with-ibm-cloud-autoai/tree/main/notebook">here</a></strong>
+
+<ul>
+<li>Sign-up/Login to IBM Cloud: https://cloud.ibm.com/registration</li>
+<li>After logging into the Cloud IBM Account, navigate to Catalog.</li>
+<li>Click on the  <code>Watson Studio</code> </li>
+</ul>
+
 
 ## Step-1: Create the Watson Studio Instance
 <ul>
