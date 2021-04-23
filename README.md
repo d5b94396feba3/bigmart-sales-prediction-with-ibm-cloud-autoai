@@ -8,8 +8,10 @@
   <li>Watson Studio Service</li>
   <li>Cloud Object Storage </li>
   <li>Machine Learning Instance </li>
+  <li>Explore the data set </li>
   <li>IBM Cloud Notebook </li>
   <li>Training the machine learning model with data set in Auto AI experiment</li>
+  <li>Deploy and Test model with sample data</li>
 
 </ul>
 <h4>Activities:</h4>
