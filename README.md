@@ -14,7 +14,7 @@
 </ul>
 <h4>Activities:</h4>
 
-
+IBM’s AutoAI
 <ul>
   <li>Create the Watson Studio.</li>
   <li>Adding the cloud object storage.</li>
