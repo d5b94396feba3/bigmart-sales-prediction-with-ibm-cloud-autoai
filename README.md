@@ -13,8 +13,6 @@
 
 </ul>
 <h4>Activities:</h4>
-
-IBM’s AutoAI
 <ul>
   <li>Create the Watson Studio.</li>
   <li>Adding the cloud object storage.</li>
@@ -49,7 +47,7 @@ instance. There you click on <code>create</code> button.</li>
 <img src="images/ibm_watson_4.png">
 
 <ul>
-	<li>Click on <code>Create an Empty Project</code></li>
+	<li>Click on <code>Create an empty project</code></li>
 </ul>
 
 <img src="images/ibm_watson_5.png">
@@ -60,7 +58,7 @@ instance. There you click on <code>create</code> button.</li>
 
 <ul>
 	<li>While creating the project you need to provide name and you need to select the object storage
-service, on the right side under the object storage option you have an <code>ADD</code> option click on that.</li>
+service, on the right side under the storage service option you have an <code>ADD</code> option click on that.</li>
 </ul>
 
 <img src="images/ibm_watson_cloud_1.png">
@@ -79,7 +77,7 @@ already created a cloud object storage service, you can select the existing inst
 select the object storage service which you have created in your previous step. If you did not get your
 service name, simply click on the refresh button there.</li>
 
-<li>After selecting the Cloud Object Storage service click on create. Then your project will be created.</li>
+<li>After selecting the Cloud Object Storage service click on <code>create</code>. Then your project will be created.</li>
 
 </ul>
 
@@ -92,7 +90,7 @@ service name, simply click on the refresh button there.</li>
 <ul>
 	<li>After creating the project, you will get the below page.</li>
 
-<li>On the top of screen you will have “add to project” option, Click on <code>Add to project</code>.</li>
+<li>On the top of screen you will have “add to project” option, Click on <code>Add to project</code></li>
 
 </ul>
 
