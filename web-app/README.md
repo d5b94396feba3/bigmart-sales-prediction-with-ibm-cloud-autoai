@@ -1,4 +1,3 @@
-
 # BigMartAutoAI Web App
 
 
