@@ -12,7 +12,7 @@
 
 ### Demo 
 
-YouTube : https://youtu.be/o1vSL-k2fcE
+YouTube : https://youtu.be/iP47WxmXrYY
 
 <img src="src/static/demos/autoAI_web_app.gif"/>
 
