@@ -10,8 +10,9 @@
   <li>Machine Learning Instance </li>
   <li>Explore the data set </li>
   <li>IBM Cloud Notebook </li>
-  <li>Training the machine learning model with data set in Auto AI experiment</li>
+  <li>Training the machine learning model with data set in AutoAI experiment</li>
   <li>Deploy and Test model with sample data</li>
+  <li>BigMartAutoAI Web Application</li>
 
 </ul>
 <h4>Activities:</h4>
@@ -24,10 +25,10 @@
 </ul>
 <hr>
 
-## Step-0: Explore Data Set and Notebook
+## Step-0: Explore Data Set , Notebook and Web App Demo
 
 For this tutorial, we will use <code>BigMart Sales</code> data set from Kaggle. You can find dataset <strong><a href="https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data">here</a></strong>.<br>
-Data set <code>Exploration Analysis (EDA)</code> and <code>Notebook</code> of this tutorial you can find <strong><a href="https://tinyurl.com/pht9bc9z">here</a></strong>.
+Data set <code>Exploration Analysis (EDA)</code> and <code>Notebook</code> of this tutorial you can find <strong><a href="https://tinyurl.com/pht9bc9z">here</a></strong>.<br>BigMartAutoAI web application demo <strong><a href="#">here</a></strong>.
 
 <br>
 
