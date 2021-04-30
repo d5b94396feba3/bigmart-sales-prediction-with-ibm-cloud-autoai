@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 # bigmartAutoAI
-=======
-# BigMartAutoAI
->>>>>>> 6e57127faf4f7f95f90fdb3677ce9664e338cf2c
+
+
 ### AutoAI based machine learning application for predicting bigmart sales using python and flask framework.
 
 #### Read medium blog post of this tutorial [HERE!](https://medium.com/@sha-rah646/how-to-create-and-deploy-machine-learning-model-with-watson-studio-autoai-ca1c772124c6) 
@@ -14,7 +13,7 @@
 
 ### Demo 
 
-<<<<<<< HEAD
+
 YouTube : https://youtu.be/wgJmhHc3aTc
 
 <img src="autoAI_web_app.gif"/>
@@ -22,7 +21,7 @@ YouTube : https://youtu.be/wgJmhHc3aTc
 YouTube : https://youtu.be/o1vSL-k2fcE
 
 <img src="src/static/demos/autoAI_web_app.gif"/>
->>>>>>> 6e57127faf4f7f95f90fdb3677ce9664e338cf2c
+
 
 
 ## Usage
