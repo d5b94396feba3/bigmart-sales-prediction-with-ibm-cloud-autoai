@@ -30,7 +30,7 @@
 <li>For this tutorial, we will use <code>BigMart Sales</code> data set from Kaggle. You can find dataset <strong><a href="https://www.kaggle.com/brijbhushannanda1979/bigmart-sales-data">here</a></strong>.</li>
 <li>Data set <code>Exploration Analysis (EDA)</code> and <code>Notebook</code> of this tutorial you can find <strong>
 <a href="https://tinyurl.com/pht9bc9z">here</a></strong>.</li>
-<li>BigMartAutoAI web application demo <strong><a href="#">here</a></strong>.</li>
+<li>BigMartAutoAI web application demo <strong><a href="https://tinyurl.com/5t4hs4bc">here</a></strong>.</li>
 </ul>
 
 <br>
