@@ -13,11 +13,6 @@
 
 ### Demo 
 
-
-YouTube : https://youtu.be/wgJmhHc3aTc
-
-<img src="autoAI_web_app.gif"/>
-=======
 YouTube : https://youtu.be/o1vSL-k2fcE
 
 <img src="src/static/demos/autoAI_web_app.gif"/>
