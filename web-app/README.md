@@ -1,5 +1,5 @@
 
-# bigmartAutoAI
+# BigMartAutoAI Web App
 
 
 ### AutoAI based machine learning application for predicting bigmart sales using python and flask framework.
