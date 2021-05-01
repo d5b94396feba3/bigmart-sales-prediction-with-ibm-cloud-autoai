@@ -38,7 +38,7 @@ def sample_predict():
 
     header = {'Content-Type': 'application/json', 'Authorization': 'Bearer ' + mltoken}
 
-    # NOTE: manually define and pass the array(s) of values to be scored in the next line
+    
     payload_scoring = {"input_data": [{"fields": ['Item_Identifier','Item_Weight','Item_Fat_Content',
 
     'Item_Visibility','Item_Type','Item_MRP','Outlet_Identifier','Outlet_Establishment_Year',
