@@ -2,7 +2,7 @@
 from flask import render_template, request, redirect, url_for, flash, session
 from flask_mail import Message
 import secrets
-from src import app, mail, urlSTS
+from src import app, mail
 
 
 def recipient_email():
